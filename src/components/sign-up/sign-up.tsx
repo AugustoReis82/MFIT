@@ -195,7 +195,7 @@ export default function SignUp() {
   );
 }
 
-/* ### Valdador de Password #####
+/* ### Valdador de Password - Augusto #####
 function validar(){
   var senha = formData.senha.value;
   var rep_senha = formData.rep_senha.value;
